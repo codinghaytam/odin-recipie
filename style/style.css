@@ -6,6 +6,7 @@ a{
 body{
     background-color: rgb(47, 48, 48) ;
     color:white;
+    font-family:monospace;
 }
 h2,h1{
     color: rgb(49, 49, 252);
